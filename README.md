@@ -48,11 +48,11 @@ where -2 ≤ x1, x2 ≤ 2
   - Fitness trajectories under various encoding strategies
 
 <p align="center">
-  <img src="Practice_2_1.jpg" width="60%" alt="Binary Encoding Optimization">
+  <img src="Practice_2_1.png" width="60%" alt="Binary Encoding Optimization">
 </p>
 
 <p align="center">
-  <img src="Practice_2_2.jpg" width="60%" alt="Binary Encoding Optimization">
+  <img src="Practice_2_2.png" width="60%" alt="Binary Encoding Optimization">
 </p>
 
 ---
@@ -71,11 +71,11 @@ Goals:
 - Evaluate operator influence (selection, crossover, mutation)
 
 <p align="center">
-  <img src="Practice_3_1.jpg" width="60%" alt="Real-Encoded GA">
+  <img src="Practice_3_1.png" width="60%" alt="Real-Encoded GA">
 </p>
 
 <p align="center">
-  <img src="Practice_3_2.jpg" width="60%" alt="Real-Encoded GA">
+  <img src="Practice_3_2.png" width="60%" alt="Real-Encoded GA">
 </p>
 
 ---
@@ -95,7 +95,7 @@ Goals:
 - Output: Shortest tours and city plotting
 
 <p align="center">
-  <img src="Practice_4.jpg" width="60%" alt="TSP Ant Colony">
+  <img src="Practice_4.png" width="60%" alt="TSP Ant Colony">
 </p>
 
 ---
