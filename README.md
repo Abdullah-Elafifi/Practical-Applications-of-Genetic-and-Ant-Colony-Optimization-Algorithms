@@ -74,9 +74,6 @@ Goals:
   <img src="Practice_3_1.png" width="60%" alt="Real-Encoded GA">
 </p>
 
-<p align="center">
-  <img src="Practice_3_2.png" width="60%" alt="Real-Encoded GA">
-</p>
 
 ---
 
@@ -100,7 +97,11 @@ Goals:
 
 ---
 
-## 🔧 Tools and Libraries
+## Reports and more
+You can check my analysis and conclusion for each practice deeply in the uploaded reports 
+
+
+## Tools and Libraries
 
 - Python 
 - NumPy
