@@ -27,7 +27,7 @@ A foundational GA implementation using binary strings of length 5:
 - Elitism: Top 2 individuals preserved per generation
 
 <p align="center">
-  <img src="Practice_1.jpg" width="60%" alt="OneMax GA">
+  <img src="images/Practice_1.jpg" width="60%" alt="OneMax GA">
 </p>
 
 ---
