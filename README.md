@@ -3,7 +3,7 @@
 This repository contains a series of optimization problem-solving practices using Genetic Algorithms (GA) and Ant Colony System (ACS). The work explores both discrete and continuous optimization using classic and advanced evolutionary techniques, offering visual insights into convergence behaviors and algorithmic effectiveness.
 
 <p align="center">
-  <img src="Cover.gif" width="80%" alt="Evolutionary Optimization">
+  <img src="images/cover.gif" width="60%" alt="Evolutionary Optimization">
 </p>
 
 ---
